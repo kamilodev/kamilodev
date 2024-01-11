@@ -1,5 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#393955" fill-opacity="1" d="M0,0L80,32C160,64,320,128,480,133.3C640,139,800,85,960,96C1120,107,1280,181,1360,218.7L1440,256L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path></svg>
+
+<p align="center">
+        <img src="./svg/Waves.svg" alt="Github Stats" />
+</p>
 
 <div align="center">
 
@@ -56,23 +59,19 @@
 
 [![](https://visitcount.itsvg.in/api?id=kamilodev&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
-<table border="0">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=kamilodev&show_icons=true&theme=tokyonight" alt="kamilodev" /></td>
-<td>
 
-[![Camilo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kamilodev&layout=compact&langs_count=15&theme=tokyonight&hide_border=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
-</tr>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilodev&size_weight=0.5&count_weight=0.5&langs_count=10&theme=tokyonight&layout=compact" /></td>
-</td>
-<td>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamilodev&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</td>
-</tr>
-</table>
+<div align="left">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamilodev&show_icons=true&theme=tokyonight)
+
+[![Wakatime Stats](https://github-readme-stats-iota-bay.vercel.app/api/wakatime?username=kamilodev&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilodev&size_weight=0.5&count_weight=0.5&langs_count=10&theme=tokyonight&layout=compact)
+
+[![GitHub Streak](https://github-readme-streak-stats-two-silk.vercel.app?user=kamilodev&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 <br />
 <hr />
