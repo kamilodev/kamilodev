@@ -10,6 +10,20 @@
 
 </div>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamilodev/" target="_blank" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/Kamilodev" target="_blank" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://www.kamilodev.dev/" target="_blank" alt="KamiloDev">
+    <img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
 <h4>Welcome to my page! </br> I'm Camilo, currently living in <b>Madrid, <img width="18" src="https://img.icons8.com/color/48/spain2-circular.png" alt="spain2-circular"/> Spain</b> . </h4>
 <h3>My Tech Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
