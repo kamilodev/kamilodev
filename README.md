@@ -11,7 +11,16 @@
 </div>
 
 <h4>Welcome to my page! </br> I'm Camilo, currently living in <b>Madrid, <img width="18" src="https://img.icons8.com/color/48/spain2-circular.png" alt="spain2-circular"/> Spain</b> . </h4>
-<h3>My Stack Tech <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+<h3>My Tech Stack<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
+
+<div align="justify">
+
+I am a <span style="font-weight: bold;">**FULL STACK**</span> developer, passionate about technology and development, with expertise in the <span style="font-weight: bold;">**MERN**</span> <span style="color: #2D8A96;">(MongoDB, Express.js, React.js, Node.js)</span> and <span style="font-weight: bold;">**FARM**</span> <span style="color: #2D8A96;">(FastAPI, React.js, MongoDB)</span> stacks. My day-to-day revolves around overcoming challenges and continually improving through the execution of innovative and enjoyable projects.
+
+In addition to my experience as a Full Stack developer, I am also a <span style="color: #2D8A96;">developer in artificial intelligence and data engineering.</span> This facet has allowed me to explore the fascinating world of AI, working on ETL processes, data analysis, and the development of ML and DL models.
+
+</div>
+<br />
 
 ![Static Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-CSS3-2865F1?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,23 +68,60 @@
 
 [![](https://visitcount.itsvg.in/api?id=kamilodev&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
-
-
 <div align="left">
+
+![Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamilodev&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamilodev&show_icons=true&theme=tokyonight)
 
-[![Wakatime Stats](https://github-readme-stats-iota-bay.vercel.app/api/wakatime?username=kamilodev&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-two-silk.vercel.app?user=kamilodev&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![CommitTime](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamilodev&theme=github_dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilodev&size_weight=0.5&count_weight=0.5&langs_count=10&theme=tokyonight&layout=compact)
 
-[![GitHub Streak](https://github-readme-streak-stats-two-silk.vercel.app?user=kamilodev&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Wakatime Stats](https://github-readme-stats-iota-bay.vercel.app/api/wakatime?username=kamilodev&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kamilodev)
 
 </div>
 
 <br />
 <hr />
 <br />
+
+<h2>Certifications 👨🏼‍🎓</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href='https://www.credly.com/badges/b95766ba-a138-4fee-9e1d-efe311e776e1' target='_blank'>
+        <img src="./svg/ibm_cloud.png" width="50%" alt='IBM Cloud' />
+      </a>
+      <h5>Cloud Computing Core</h5>
+    </td>
+    <td align="center">
+      <a href='https://www.credly.com/badges/1a4edb5a-0c90-470c-a794-b6ad578061b6' target='_blank'>
+        <img src="./svg/google_it.png" width="50%" alt='Google IT' />
+      </a>
+      <h5>IT Automation with Python</h5>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href='https://www.credly.com/badges/06d30e39-5337-4408-a89c-4f98e856e2d1' target='_blank'>
+        <img src="./svg/web_development.png" width="50%" alt='Web Development' />
+      </a>
+      <h5>Web Development with HTML, CSS, JavaScript</h5>
+    </td>
+    <td align="center">
+      <a href='https://www.credential.net/c401a50d-ee06-458f-951b-813ff52506b3#gs.2uml0o' target='_blank'>
+        <img src="./svg/api_owner.png" width="50%" alt='API Owner' />
+      </a>
+      <h5>API Owner</h5>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
         <img src="./svg/Bottom.svg" alt="Github Stats" />
