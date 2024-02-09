@@ -107,12 +107,20 @@ In addition to my experience as a Full Stack developer, I am also a <span style=
 <h2>Certifications 👨🏼‍🎓</h2>
 
 <table>
+        <tr>
+    <td align="center" colspan="2">
+      <a href='https://www.credential.net/c401a50d-ee06-458f-951b-813ff52506b3#gs.2uml0o' target='_blank'>
+        <img src="./svg/api_owner.png" width="25%" alt='API Owner' />
+      </a>
+      <h5>API Owner</h5>
+    </td>
+  </tr>
   <tr>
     <td align="center">
-      <a href='https://www.credly.com/badges/b95766ba-a138-4fee-9e1d-efe311e776e1' target='_blank'>
-        <img src="./svg/ibm_cloud.png" width="50%" alt='IBM Cloud' />
+      <a href='https://www.credly.com/badges/b6dbf0de-68c6-4d4c-bf22-9706cc2f871b' target='_blank'>
+        <img src="./svg/google_analisis.png" width="50%" alt='Google Data Analytics' />
       </a>
-      <h5>Cloud Computing Core</h5>
+      <h5>Google Data Analytics</h5>
     </td>
     <td align="center">
       <a href='https://www.credly.com/badges/1a4edb5a-0c90-470c-a794-b6ad578061b6' target='_blank'>
@@ -129,10 +137,10 @@ In addition to my experience as a Full Stack developer, I am also a <span style=
       <h5>Web Development with HTML, CSS, JavaScript</h5>
     </td>
     <td align="center">
-      <a href='https://www.credential.net/c401a50d-ee06-458f-951b-813ff52506b3#gs.2uml0o' target='_blank'>
-        <img src="./svg/api_owner.png" width="50%" alt='API Owner' />
+     <a href='https://www.credly.com/badges/b95766ba-a138-4fee-9e1d-efe311e776e1' target='_blank'>
+        <img src="./svg/ibm_cloud.png" width="50%" alt='IBM Cloud' />
       </a>
-      <h5>API Owner</h5>
+      <h5>Cloud Computing Core</h5>
     </td>
   </tr>
 </table>
