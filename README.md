@@ -108,7 +108,13 @@ In addition to my experience as a Full Stack developer, I am also a <span style=
 
 <table>
         <tr>
-    <td align="center" colspan="2">
+    <td align="center">
+      <a href='https://www.credly.com/badges/80e88606-f3c3-4c79-90c7-7f87320a5883' target='_blank'>
+        <img src="./svg/data_engineer.png" width="25%" alt='API Owner' />
+      </a>
+      <h5>Google Professional Data Engineer</h5>
+    </td>
+        <td align="center">
       <a href='https://www.credential.net/c401a50d-ee06-458f-951b-813ff52506b3#gs.2uml0o' target='_blank'>
         <img src="./svg/api_owner.png" width="25%" alt='API Owner' />
       </a>
