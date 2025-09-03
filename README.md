@@ -96,8 +96,6 @@ In addition to my experience as a Full Stack developer, I am also a <span style=
 
 [![Wakatime Stats](https://github-readme-stats-iota-bay.vercel.app/api/wakatime?username=kamilodev&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kamilodev)
-
 </div>
 
 <br />
