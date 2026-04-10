@@ -102,7 +102,7 @@ In addition to my experience as a Full Stack developer, I am also a <span style=
         <tr>
     <td align="center">
       <a href='https://www.credly.com/badges/7e2da75a-f35e-4943-8f57-09335094372f/public_url' target='_blank'>
-        <img src="./svg/mongo_si" width="25%" alt='MongoDB SI Architect Certification' />
+        <img src="./svg/mongo_si.png" width="25%" alt='MongoDB SI Architect Certification' />
       </a>
       <h5>MongoDB SI Architect Certification</h5>
     </td>
