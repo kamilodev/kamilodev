@@ -86,13 +86,7 @@ In addition to my experience as a Full Stack developer, I am also a <span style=
 
 ![Github Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamilodev&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamilodev&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats-two-silk.vercel.app?user=kamilodev&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 ![CommitTime](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamilodev&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamilodev&size_weight=0.5&count_weight=0.5&langs_count=10&theme=tokyonight&layout=compact)
 
 [![Wakatime Stats](https://github-readme-stats-iota-bay.vercel.app/api/wakatime?username=kamilodev&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -105,6 +99,20 @@ In addition to my experience as a Full Stack developer, I am also a <span style=
 <h2>Certifications 👨🏼‍🎓</h2>
 
 <table>
+        <tr>
+    <td align="center">
+      <a href='https://www.credly.com/badges/7e2da75a-f35e-4943-8f57-09335094372f/public_url' target='_blank'>
+        <img src="./svg/mongo_si" width="25%" alt='MongoDB SI Architect Certification' />
+      </a>
+      <h5>MongoDB SI Architect Certification</h5>
+    </td>
+        <td align="center">
+      <a href='https://www.credly.com/badges/09f9d4cd-9d43-4169-97a1-135457071533/public_url' target='_blank'>
+        <img src="./svg/github_foundations.png" width="25%" alt='Github Foundations' />
+      </a>
+      <h5>Github Foundations</h5>
+    </td>
+  </tr>
         <tr>
     <td align="center">
       <a href='https://www.credly.com/badges/80e88606-f3c3-4c79-90c7-7f87320a5883' target='_blank'>
